@@ -40,6 +40,7 @@ a.blocks:hover {
 } 
 .theme-menu
 {
+    font-family: Arial Black;
     position: absolute;
     right: 5px;
     top: 200px;
@@ -51,6 +52,7 @@ a.blocks:hover {
 }
 .theme-button
 {
+    font-family: Arial Black;
     position: absolute;
     right: 5px;
     top: 5px;
