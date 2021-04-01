@@ -19,7 +19,7 @@ background-color: orange;
 }
 li a {
 width: 180px;
-display: none;
+display: block;
 text-decoration: none; /* Подчеркивание у ссылок убираем */
 background-color: orange;
 border-left: 1px solid black;
@@ -72,6 +72,15 @@ A.blocks{
 a.blocks:hover {
     color: #00CC66;  
 } 
+.theme-menu
+{
+    position: absolute;
+    right: 5px;
+    top: 100px;
+    display: inline-block;
+    padding: 10px 25px;
+    cursor: pointer;
+}
 .theme-button
 {
     position: absolute;
