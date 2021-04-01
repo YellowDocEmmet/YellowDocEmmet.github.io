@@ -22,23 +22,13 @@ width: 180px;
 display: block;
 text-decoration: none; /* Подчеркивание у ссылок убираем */
 background-color: orange;
-border-left: 1px solid black;
-border-right: 1px solid black;
 }
 li a:hover {
 color: black; /* Цвет текста активного пункта */
 background-color: green;
-color: white;
-display: block;
 }
 li:hover ul {
 display: block; /* При выделении пункта курсором мыши отображается подменю */
-}
-.brd {
-border-bottom: 1px solid black; /* Линия снизу */
-}
-.hgt {
-border-top: 1px solid black;
 }
 }
 .layer1 {
