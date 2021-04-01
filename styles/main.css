@@ -7,31 +7,6 @@ body, html
     font-family: arial;
     font-size: 16px;
 }
-ul {
-width: 60px; /* Ширина меню */
-list-style: none; /* Для списка убираем маркеры */
-margin: 0; /* Нет отступов вокруг */
-padding: 0; /* Убираем поля вокруг текста */
-}
-li ul {
-position: absolute; /* Подменю позиционируются абсолютно */
-display: none; /* Скрываем подменю */
-background-color: orange;
-}
-li a {
-width: 180px;
-display: block;
-text-decoration: none; /* Подчеркивание у ссылок убираем */
-background-color: orange;
-}
-li a:hover {
-color: black; /* Цвет текста активного пункта */
-background-color: green;
-}
-li:hover ul {
-display: block; /* При выделении пункта курсором мыши отображается подменю */
-}
-
 .layer1 {
    background: #339900; /* Цвет фона */
    color: #fff; /* Цвет текста */
