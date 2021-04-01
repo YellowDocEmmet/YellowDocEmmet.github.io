@@ -22,7 +22,7 @@ body, html
    padding: 10px; /* Поля вокруг текста */
    border: 1px solid #fff; /* Параметры рамки */
    border-right: none; /* Убираем линию справа */
-   margin-bottom: -24px; /* Отступ снизу */
+   margin-bottom: -10px; /* Отступ снизу */
    }
    .layer3 {
    margin-left: 180px; /* Отступ слева */
