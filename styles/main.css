@@ -31,6 +31,12 @@ body, html
    padding: 10px; /* Поля вокруг текста */
    border: 1px solid #fff; /* Параметры рамки */
    }
+a.{
+   text-decoration: none;
+    color: #fff;
+    margin-left: 25%;
+    line-height: 75px;
+}			
 .theme-button
 {
     position: absolute;
