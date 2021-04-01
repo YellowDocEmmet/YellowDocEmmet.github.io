@@ -6,6 +6,7 @@ body, html
     margin: 10px;
     font-family: arial;
     font-size: 16px;
+}
 ul {
 width: 60px; /* Ширина меню */
 list-style: none; /* Для списка убираем маркеры */
@@ -30,7 +31,7 @@ background-color: green;
 li:hover ul {
 display: block; /* При выделении пункта курсором мыши отображается подменю */
 }
-}
+
 .layer1 {
    background: #339900; /* Цвет фона */
    color: #fff; /* Цвет текста */
