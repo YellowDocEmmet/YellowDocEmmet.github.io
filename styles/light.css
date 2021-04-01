@@ -17,3 +17,13 @@ body
 {
     background: #555;
 }
+.theme-menu
+{
+    color: #f4f4f4;
+    background: #336633;
+}
+
+.theme-menu:hover
+{
+    background: #555;
+}
