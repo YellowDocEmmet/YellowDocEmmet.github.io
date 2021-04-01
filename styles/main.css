@@ -33,10 +33,10 @@ body, html
    }
 a.{
    text-decoration: none;
-    color: #fff;
-    margin-left: 25%;
-    line-height: 75px;
-}			
+}	
+a:hover {
+    color: #009966;  
+} 
 .theme-button
 {
     position: absolute;
