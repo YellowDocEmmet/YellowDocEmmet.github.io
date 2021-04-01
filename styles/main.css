@@ -41,6 +41,7 @@ a.blocks:hover {
 .theme-menu
 {
     position: absolute;
+    font-family: Arial Black;
     right: 5px;
     top: 200px;
     display: inline-block;
