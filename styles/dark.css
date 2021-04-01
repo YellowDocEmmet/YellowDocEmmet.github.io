@@ -8,23 +8,6 @@ body
     color: #f4f4f4;
 }
 
-.header
-{
-    background: #339900;
-    color: #f4f4f4;
-}
-
-.nav__item
-{
-    color: #f4f4f4;
-    background: #373737;
-}
-
-.nav__item:hover, .nav__item_active
-{
-    background: #444;
-}
-
 .theme-button
 {
     color: #f4f4f4;
