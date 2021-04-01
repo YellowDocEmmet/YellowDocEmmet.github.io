@@ -15,7 +15,7 @@ body, html
    margin-bottom: -10px; /* Отступ снизу */
    font-size: 1.1em; /* Размер шрифта */
    }
-   .layer2 {
+.layer2 {
    margin-left: 100px; /* Отступ слева */
    background: #99CC66; /* Цвет фона */
    width: 300px; /* Ширина слоя */
@@ -23,7 +23,7 @@ body, html
    border: 1px solid #fff; /* Параметры рамки */
    margin-bottom: -10px; /* Отступ снизу */
    }
-   .layer3 {
+.layer3 {
    margin-left: 180px; /* Отступ слева */
    background: #339900; /* Цвет фона */
    width: 233px; /* Ширина слоя */
@@ -31,38 +31,6 @@ body, html
    padding: 10px; /* Поля вокруг текста */
    border: 1px solid #fff; /* Параметры рамки */
    }
-.wrapper
-{
-    width: 100%;
-}
-
-.header
-{
-    background: #ccc;
-}
-
-.header__content
-{
-    padding: 5px;
-}
-
-.nav__item
-{
-    display: inline-block;
-    vertical-align: middle;
-    padding: 15px 25px;
-    margin: 2px;
-    cursor: pointer;
-    text-decoration: none;
-}
-
-.main__content
-{
-    width: 80%;
-    margin: 0 auto;
-}
-
-
 .theme-button
 {
     position: absolute;
