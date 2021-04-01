@@ -21,7 +21,6 @@ body, html
    width: 300px; /* Ширина слоя */
    padding: 10px; /* Поля вокруг текста */
    border: 1px solid #fff; /* Параметры рамки */
-   border-right: none; /* Убираем линию справа */
    margin-bottom: -10px; /* Отступ снизу */
    }
    .layer3 {
@@ -31,7 +30,6 @@ body, html
    color: #fff; /* Цвет текста */
    padding: 10px; /* Поля вокруг текста */
    border: 1px solid #fff; /* Параметры рамки */
-   border-right: none; /* Убираем линию справа */
    }
 .wrapper
 {
