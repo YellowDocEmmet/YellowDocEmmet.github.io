@@ -61,9 +61,6 @@ a.blocks:hover {
     color: #f4f4f4;
     background: #336633;
 }
-ul {
-    list-style-image: url("img-styles/play.png"); /* Путь к изображению маркера */
-   }
 .theme-button:hover
 {
     background: #555;
