@@ -61,6 +61,11 @@ a.blocks:hover {
     color: #f4f4f4;
     background: #336633;
 }
+ul {
+    list-style-image: url(img-styles/sad.png); /* Путь к изображению маркера */
+	color: #123;
+	font-size: 130%
+   }
 .theme-button:hover
 {
     background: #555;
